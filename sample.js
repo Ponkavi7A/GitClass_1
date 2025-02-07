@@ -1,1 +1,1 @@
-console.log("Kavikutty Doraemon Amulukutty Nobita");
+console.log("Kavikutty Amulukutty");
